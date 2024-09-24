@@ -6,10 +6,8 @@ The article is under review in Scientific Reports.
 2. Experimental dataset
    
 (1) Otitis1415 dataset
-We used the Otitis1415 dataset, which consists of CT images from 2014 to 2024 at the hospital affiliated with Xiangnan University. 
-The dataset includes 4,216 images of OM cases. We randomly divided the dataset into two parts: 3,280 images for the training set, 
-used to train the model, and the remaining 936 images for the validation set, used to evaluate the model’s performance. 
-Each image in the dataset is annotated with a ground truth box indicating the position of the middle ear.
+
+We used the Otitis1415 dataset, which consists of CT images from 2014 to 2024 at the hospital affiliated with Xiangnan University. The dataset includes 4,216 images of OM cases. We randomly divided the dataset into two parts: 3,280 images for the training set, used to train the model, and the remaining 936 images for the validation set, used to evaluate the model’s performance. Each image in the dataset is annotated with a ground truth box indicating the position of the middle ear.
 This dataset is too large to upload to the GITHUB repository. So we upload to Baidu web disk, please feel free to download.
 The Otitis1415 dataset can be downloaded via the following link:
 https://pan.baidu.com/s/1rFrtuGcnKLQ1vXQaX7BEtg?pwd=dz9c 
