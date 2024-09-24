@@ -3,7 +3,8 @@ Xinyue Zhao, Haowen Zhang, Dong Liu*, Guanxiong Lei. 4DO-DETR: DN-DAB-Deformable
 The article is under review in Scientific Reports.
 
 
-3. Experimental dataset
+2. Experimental dataset
+   
 (1) Otitis1415 dataset
 We used the Otitis1415 dataset, which consists of CT images from 2014 to 2024 at the hospital affiliated with Xiangnan University. 
 The dataset includes 4,216 images of OM cases. We randomly divided the dataset into two parts: 3,280 images for the training set, 
@@ -13,7 +14,6 @@ This dataset is too large to upload to the GITHUB repository. So we upload to Ba
 The Otitis1415 dataset can be downloaded via the following link:
 https://pan.baidu.com/s/1rFrtuGcnKLQ1vXQaX7BEtg?pwd=dz9c 
 password：dz9c
-
 
 
 (2) brain tumor dataset
