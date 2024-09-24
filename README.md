@@ -1,4 +1,5 @@
 1. The article information
+   
 Xinyue Zhao, Haowen Zhang, Dong Liu*, Guanxiong Lei. 4DO-DETR: DN-DAB-Deformable DETR with Denser connection and Entropy-balanced loss for otitis media detection.
 The article is under review in Scientific Reports.
 
@@ -15,11 +16,10 @@ password：dz9c
 
 
 (2) brain tumor dataset
-The brain tumor detection dataset consists of medical images from MRI or CT scans, containing information about brain tumor presence, 
-location, and characteristics. This dataset is essential for training computer vision algorithms to automate brain tumor identification, 
-aiding in early diagnosis and treatment planning.
 
-The orignal brain tumor dataset can be found in the following repository:
+The brain tumor detection dataset consists of medical images from MRI or CT scans, containing information about brain tumor presence, location, and characteristics. This dataset is essential for training computer vision algorithms to automate identification. We use this baseline dataset to further evaluate our approach.
+
+The orignal dataset can be found in the following repository:
 https://github.com/ultralytics/ultralytics/blob/main/ultralytics/cfg/datasets/brain-tumor.yaml.
 We also uploaded this dataset in this repository.
 
